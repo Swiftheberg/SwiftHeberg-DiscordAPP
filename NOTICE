@@ -1,0 +1,15 @@
+SwiftHeberg-DiscordAPP
+Copyright 2025 SwiftHeberg
+
+Développé par Wakusay pour SwiftHeberg, un hébergeur web et de jeux vidéo engagé pour la performance et l’écologie.
+
+Ce logiciel utilise des bibliothèques open source, notamment :
+
+- discord.js (https://discord.js.org/)
+- dotenv (https://github.com/motdotla/dotenv)
+- mongoose (https://mongoosejs.com/)
+- nodemon (https://nodemon.io/)
+- colors.js (https://github.com/Marak/colors.js)
+
+Ce projet est distribué sous licence Apache 2.0.  
+Voir le fichier LICENSE pour plus d'informations.
