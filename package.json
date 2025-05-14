@@ -1,0 +1,19 @@
+{
+  "name": "swiftheberg_discordapp",
+  "version": "1.0.0",
+  "description": "A discord bot to manage swiftheberg discord server",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "Wakusay",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "mongoose": "^8.14.1",
+    "nodemon": "^3.1.10"
+  }
+}
